@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversor_Léxico", "Conversor_Léxico\Conversor_Léxico.csproj", "{5847238F-74C1-4182-8BBA-3DD99B5A0DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5847238F-74C1-4182-8BBA-3DD99B5A0DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5847238F-74C1-4182-8BBA-3DD99B5A0DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5847238F-74C1-4182-8BBA-3DD99B5A0DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5847238F-74C1-4182-8BBA-3DD99B5A0DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
